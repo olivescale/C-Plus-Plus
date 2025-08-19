@@ -4,12 +4,12 @@ int main(){
     int a;
     cin>>a;
 
-    if(a==2){
-        cout<<"Even";
+    if(a%2==0){
+        cout<<a<<" "<<"is Even";
         
     }
     else{
-        cout<<"Odd";
+        cout<<a<<" "<<"is Odd";
     }
 }
 
