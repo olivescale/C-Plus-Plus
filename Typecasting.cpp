@@ -5,3 +5,4 @@ int main(){
     cin>>a;
     cout<<static_cast<int>(a);
 }
+
